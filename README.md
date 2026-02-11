@@ -26,14 +26,6 @@ In this repo, I build everything from simple layouts to interactive web applicat
 
 ---
 
-## 🌈 My Goals
-- [ ] Master CSS Flexbox & Grid.
-- [ ] Build responsive websites (mobile-friendly).
-- [ ] Learn JavaScript DOM manipulation.
-- [ ] Create my own personal portfolio.
-
----
-
 ## 📫 Let's Connect!
 - **Developer:** ngocle7777
 - **Current Status:** Learning the magic of the Web ✨
